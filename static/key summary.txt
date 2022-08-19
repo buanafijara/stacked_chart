@@ -1,0 +1,20 @@
+bookmark
+
+file	: 3M-1 FINISHED PLAN
+hal. 434 -> OFFICIAL SHOP TRIAL RESULTS
+
+
+Lines :
+Te1 	: Turbine inlet (C)
+Tc	: Cylinder outlet (C)
+Te2	: Turbine outlet (C)
+
+Ps	: Scavenging Pressure (MPa)
+Pm	: Combustion Press
+Pc	: Compression (MPa)
+
+Ne	: Engine Speed (min-1)
+Nb	: Turbine Speen (min-1)
+
+Be	: Specific Fuel Consumption (gr/kWh)
+Rc	: Fuel Pump Notch
